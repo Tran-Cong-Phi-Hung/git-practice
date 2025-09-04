@@ -1,3 +1,3 @@
 # Git Practice
 
-Giới thiệu: Tôi là <Họ Tên>, MSSV <MSSV>.
+Giới thiệu: Tôi là <Trần Công Phi Hùng>, MSSV <225496>.
