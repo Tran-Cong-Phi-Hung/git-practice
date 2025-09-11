@@ -1,0 +1,15 @@
+[33mf0c79cb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpractice-branch[m[33m)[m Add line 5
+[33mf69e45d[m Add line 4
+[33mc501cea[m Reapply "Add line 3"
+[33m626a499[m Revert "Add line 3"
+[33mf764ad4[m Add line 3
+[33m1a1bc19[m Add line 2
+[33mb423085[m Add line 1
+[33mdf04c61[m Restore readme changes
+[33m50dae0b[m Add note.md
+[33m1732272[m[33m ([m[1;31morigin/practice-branch[m[33m)[m Remove exercise1
+[33m465f9c6[m Rename practice1 to exercise1
+[33m75d0704[m Add practice1
+[33ma7be865[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/conflict-demo[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Add personal info
+[33mee55ccb[m Update README.md
+[33m18c1a10[m Initial commit
